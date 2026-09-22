@@ -1,6 +1,4 @@
 
-<div>
-
 # Hello, I'm Ahmad Majed
 
 ## Portfolio
@@ -67,5 +65,3 @@ Flutter · Dart
 ![Alt Text](Portfolio/ShadowSudoku_Screenshot_2.png)
 ![Alt Text](Portfolio/ShadowSudoku_Screenshot_3.png)
 ![Alt Text](Portfolio/ShadowSudoku_Screenshot_4.png)
-
-</div>
