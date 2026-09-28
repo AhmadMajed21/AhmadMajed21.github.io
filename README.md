@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Hello, I'm Ahmad Majed
 
 ## Portfolio
