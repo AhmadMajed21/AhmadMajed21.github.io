@@ -1,4 +1,6 @@
-# Hello, I'm Ahmad Majed
+---
+title: Ahmad Majed
+---
 
 ## Portfolio
 
