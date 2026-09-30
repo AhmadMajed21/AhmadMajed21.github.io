@@ -1,5 +1,5 @@
 ---
-title: Ahmad Majed Portfolio
+title: Ahmad Majed
 ---
 
 # Hello, I'm Ahmad Majed
