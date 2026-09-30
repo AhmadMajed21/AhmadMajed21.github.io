@@ -2,6 +2,8 @@
 title: Ahmad Majed
 ---
 
+# Hello, I'm Ahmad Majed
+
 ## Portfolio
 
 ### Interdimensional Gas Station
